@@ -1,4 +1,5 @@
 # Weather Data Scraper
+![PyPI - Downloads](https://img.shields.io/badge/Python----blue)
 ![PyPI - Downloads](https://img.shields.io/pypi/dd/beautifulsoup4?label=Beautifulsoup)
 
 ## Introduction
